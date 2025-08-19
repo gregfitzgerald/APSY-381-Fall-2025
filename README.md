@@ -17,15 +17,17 @@ Course syllabus, policies, and administrative documents
 Supplementary course materials, handouts, and resources
 
 ### 03_Assignments
-- **Reading_Quizzes**: Weekly reading comprehension quizzes
-- **Discussion_Participation**: Class discussion materials and participation records
+- **Reading_Quizzes**: Weekly reading comprehension quizzes (10 pts each, due Sundays)
+- **Discussion_Participation**: Class discussion materials and participation records (5 pts each demo)
 - **In_Class_Activities**: Interactive demonstrations and activities
+- **Supplemental_Plus_Readings**: Additional "Plus" readings referenced in syllabus
 
 ### 04_Tests_and_Exams
-- **Test_1_Brain_and_LTM**: Brain basics and long-term memory
-- **Test_2_Imagery_Attention_WM**: Imagery, attention, and working memory  
-- **Test_3_Language_Reasoning**: Language and reasoning
-- **Final_Exam**: Cumulative final examination
+- **Test_1_Brain_and_LTM**: Brain basics and knowledge models
+- **Test_2_Imagery_Attention_WM**: Long-term memory and imagery
+- **Test_3_Attention_WM_Executive**: Attention, working memory, and executive function
+- **Test_4_Language_Emotion_Sleep**: Language, emotion, sleep, and cognition
+- **Final_Exam**: Cumulative final examination (50 pts, not 75 pts)
 - **Study_Materials**: Study guides and preparation materials
 
 ### 05_Readings
@@ -49,6 +51,7 @@ Weekly lecture notes organized by topic:
 - Week 12: Decision Making
 - Week 13: Consciousness
 - Week 14: Course Review
+- Week 15: Showcase Day
 
 ### 07_Student_Work
 - **Drafts**: Work in progress
