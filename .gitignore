@@ -1,0 +1,28 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Microsoft Office temporary files
+~$*
+*.tmp
+
+# Grade files with sensitive information
+*_grades_confidential*
+*_student_records*
+
+# Temporary files
+*.bak
+*.swp
+*.swo
+*~
+
+# Large media files
+*.mov
+*.mp4
+*.avi
+*.mkv
