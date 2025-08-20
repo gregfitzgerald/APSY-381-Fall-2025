@@ -63,6 +63,9 @@ Weekly lecture notes organized by topic:
 - **Videos_and_Media**: Educational videos and multimedia resources
 - **Cognitive_Psychology_Tools**: Software and online tools
 - **Study_Guides**: Exam preparation materials
+- **Active_Learning_Activities**: In-class engagement activities and demos
+- **Interactive_Reading_Materials**: Enhanced reading assignments and supplements
+- **Group_Work_Templates**: Collaborative learning structures and frameworks
 
 ### 09_Grading
 - **Grade_Tracking**: Grade recording and analysis
